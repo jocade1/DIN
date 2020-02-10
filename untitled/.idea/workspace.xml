@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2971cce-1eed-4ec6-afaa-82aa492baae0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Srx3P0WQBROJUVcJKXjfwTrjy4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Repaso" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/telesketch" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/EjercicioWidgets" />
+      <recent name="$PROJECT_DIR$/venv/Chapter14" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Velocimetroç" />
+      <recent name="$PROJECT_DIR$/Brujula" />
+      <recent name="$PROJECT_DIR$/venv/Intefaces" />
+      <recent name="$PROJECT_DIR$/../Ejercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Velocimetro2">
+    <configuration name="Brujula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Brujula" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Brujula/Brujula.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejercicios_Charpter14" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Ejercicios" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Ejercicios/Ejercicios_Charpter14" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Velocimetro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Escritorio" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Escritorio/Velocimetro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Velocimetro2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Velocimetro Con Movimiento" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Velocimetro Con Movimiento/Velocimetro2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VelocimetroMio (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Velocimetroç" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Velocimetroç/VelocimetroMio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VelocimetroMio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Escritorio" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Escritorio/VelocimetroMio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Velocimetro2" />
+        <item itemvalue="Python.Brujula" />
+        <item itemvalue="Python.VelocimetroMio (1)" />
+        <item itemvalue="Python.VelocimetroMio" />
+        <item itemvalue="Python.Velocimetro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2971cce-1eed-4ec6-afaa-82aa492baae0" name="Default Changelist" comment="" />
+      <created>1572335315908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572335315908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="607" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579769763846">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="607" y="344" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1579769763846" />
+    <state x="730" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579771398215">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="730" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1579771398215" />
+    <state x="65" y="24" width="1855" height="1056" key="FileChooserDialogImpl" timestamp="1581336496329">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="65" y="24" width="1855" height="1056" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1581336496329" />
+    <state width="1832" height="165" key="GridCell.Tab.0.bottom" timestamp="1581336101720">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="165" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1581336101720" />
+    <state width="1832" height="165" key="GridCell.Tab.0.center" timestamp="1581336101720">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="165" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1581336101720" />
+    <state width="1832" height="165" key="GridCell.Tab.0.left" timestamp="1581336101720">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="165" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1581336101720" />
+    <state width="1832" height="165" key="GridCell.Tab.0.right" timestamp="1581336101720">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="165" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1581336101720" />
+    <state width="1832" height="353" key="GridCell.Tab.1.bottom" timestamp="1580734768804">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="353" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1580734768804" />
+    <state width="1832" height="353" key="GridCell.Tab.1.center" timestamp="1580734768804">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="353" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1580734768804" />
+    <state width="1832" height="353" key="GridCell.Tab.1.left" timestamp="1580734768803">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="353" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1580734768803" />
+    <state width="1832" height="353" key="GridCell.Tab.1.right" timestamp="1580734768804">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="353" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1580734768804" />
+    <state x="654" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1581334919762">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="654" y="381" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1581334919762" />
+    <state x="1722" y="193" width="1237" height="813" key="dock-window-1" timestamp="1580802363995">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1722" y="193" width="1237" height="813" key="dock-window-1/65.24.1855.1056@65.24.1855.1056" timestamp="1580802363995" />
+  </component>
+</project>
