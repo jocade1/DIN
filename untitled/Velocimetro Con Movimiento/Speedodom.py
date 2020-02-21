@@ -24,7 +24,6 @@ class Speedodom(Canvas):
 
     def setspedds(self,vel:float):
         if vel < 0 or vel > 240: return
-            self.delete
 
 
 

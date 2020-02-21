@@ -19,7 +19,7 @@ def worker():
 root = Tk()
 f = ttk.Frame()
 f.pack()
-spd = Speedodom(f, width=200, height=400)
+spd = Speedodom(f, width=400, height=400)
 spd.grid(row=0, column=0)
 t = threading.Thread(target=worker).start()
 root.mainloop()
